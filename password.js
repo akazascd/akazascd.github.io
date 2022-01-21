@@ -1,8 +1,8 @@
-var password = 123456;
+var password = 776745;
 var input;
 
 while (password!=input){
-    input = prompt("请输入密码:");
+    input = prompt("Please Enter Password:");
 }
 
-alert("登入成功");
+alert("Hello");
